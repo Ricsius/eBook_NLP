@@ -1,2 +1,2 @@
 # What is this project?
-This is an app that can analyze books.
+This is an analysis of the book "Miracle in the Andes.txt".
